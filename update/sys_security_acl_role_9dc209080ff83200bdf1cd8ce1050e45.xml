@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mbarrett</sys_created_by>
+        <sys_created_on>2017-02-02 17:41:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9dc209080ff83200bdf1cd8ce1050e45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_61580_git_video_some_table.x_61580_git_video_some_table_user</sys_name>
+        <sys_package display_value="Git Video" source="x_61580_git_video">a03db0000f783200bdf1cd8ce1050e0e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Git Video">a03db0000f783200bdf1cd8ce1050e0e</sys_scope>
+        <sys_security_acl display_value="x_61580_git_video_some_table">19c209080ff83200bdf1cd8ce1050e44</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9dc209080ff83200bdf1cd8ce1050e45</sys_update_name>
+        <sys_updated_by>mbarrett</sys_updated_by>
+        <sys_updated_on>2017-02-02 17:41:30</sys_updated_on>
+        <sys_user_role display_value="x_61580_git_video_some_table_user" name="x_61580_git_video_some_table_user">6cc281000f783200bdf1cd8ce1050e10</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

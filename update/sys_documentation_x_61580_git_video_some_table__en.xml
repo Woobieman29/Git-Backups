@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Some Table" language="en" table="x_61580_git_video_some_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Some Table</label>
+            <language>en</language>
+            <name>x_61580_git_video_some_table</name>
+            <plural>Some Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mbarrett</sys_created_by>
+            <sys_created_on>2017-02-02 17:41:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>adc209080ff83200bdf1cd8ce1050e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Some Table</sys_name>
+            <sys_package display_value="Git Video" source="x_61580_git_video">a03db0000f783200bdf1cd8ce1050e0e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Git Video">a03db0000f783200bdf1cd8ce1050e0e</sys_scope>
+            <sys_update_name>sys_documentation_x_61580_git_video_some_table__en</sys_update_name>
+            <sys_updated_by>mbarrett</sys_updated_by>
+            <sys_updated_on>2017-02-02 17:41:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
